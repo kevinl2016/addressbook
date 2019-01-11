@@ -7,10 +7,7 @@
 ### get all contacts of an address book
 ```/accounts/{account_id}/address```
 ### get contact entry
-```/accounts/{account_id}/address/{id}
-or
-/addresses/id
-```
+```/accounts/{account_id}/address/{id} or /addresses/{id}```
 ### get all contacts of all address books
 ```/addresses```
 
