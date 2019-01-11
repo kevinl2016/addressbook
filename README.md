@@ -21,6 +21,9 @@ Tomcat server will be started.
 
 ## 2. Using Executable JAR: Using command prompt, go to the root folder of the project and run the command.
 ```mvn clean package``` 
+
 We will get executable JAR addressbook-0.0.1-SNAPSHOT.jar in target folder. Run this JAR as
+
 ```java -jar target/addressbook-0.0.1-SNAPSHOT.jar ```
+
 Tomcat server will be started. 
